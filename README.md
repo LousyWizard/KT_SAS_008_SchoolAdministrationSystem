@@ -73,6 +73,8 @@ SchoolAdministrationSystem/
 ```
 
 ## Database Schema
+You can find the detailed Entity Relationship Diagram [here](ER_DIAGRAM.md).
+
 ### Key Tables:
 - `users`: System credentials for all roles.
 - `students`: Personal and academic details of students.
